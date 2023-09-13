@@ -1,10 +1,15 @@
 [![@progune's Holopin board](https://holopin.me/progune)](https://holopin.io/@progune)
 
-- 👋 Hi, I’m @PRO-GUNE
-- 👀 I’m interested in Solving problems and I'm willing to learn whatever it takes to solve a given problem because I love learning new things
-- 🌱 I’m currently learning Artificial Intellingence, Concurrency, Advanced Data Structures and Algorithms, Python libraries for Automation, Robotics and Automation and Simulation software
-- 💞️ I’m looking to collaborate on Open Source projects that focus on Automation and also teaching the concepts I've learned to enthusiastic learners
+# Chathura Gunasekara (@PRO-GUNE) - Developer Profile 👨‍💻👋
+- I'm a Computer Science and Engineering specializing in the field of Integrated Computer Engineering. 
+- My focus area involves Robotics and Automation, Embedded Software Development, AI for Embedded Systems and Machine Learning
+= I am competent in Embedded Software Development tools like PlatformIO, Arduino and Simulation and Modelling software such as Fusion 360 and Webots
+- I am currently focusing on developing my knowledge on ROS2 and its frameworks, Machine Learning and Computer Vision, and Scilab and other research oriented software tools
 - 📫 You can reach me via my email chathuragunasekera@gmail.com 
+
+# Current Projects 
+- RoboCon 2024 - Autonomous Seeder Robot
+- Air Quality Node - Air Quality measuring node
 
 <!---
 PRO-GUNE/PRO-GUNE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
